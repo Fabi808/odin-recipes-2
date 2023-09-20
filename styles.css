@@ -1,0 +1,40 @@
+/* styles.css for odin-recipes-2 */
+
+body {
+  font-family: sans-serif;
+  background-color: lightblue;
+}
+
+.main-header {
+  font-size: 42px;
+  text-align: center;
+  color: maroon;
+}
+
+h1 {
+  font-size: 42px;
+  color: maroon;
+}
+
+.cover-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: 700px;
+}
+
+.recipe-links {
+  font-size: 22px;
+  color: maroon;
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  margin-top: 10px;
+  padding: 0;
+}
+
+.recipe-photo {
+  height: auto;
+  width: 400px;
+}
